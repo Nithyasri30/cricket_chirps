@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intentschallenge</string>
+    <string name="Contacts_App">Contacts App</string>
+    <string name="CREATE_NEW_CONTACT">CREATE NEW CONTACT</string>
+    <string name="name">Please enter your name</string>
+    <string name="phno">Please enter your phoneno</string>
+    <string name="web">Please enter website</string>
+    <string name="loc">Please enter location</string>
+</resources>
